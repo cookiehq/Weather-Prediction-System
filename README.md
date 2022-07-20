@@ -1,5 +1,5 @@
 # Weather-Prediction-System
-天气监测及预测系统
+空气质量监测及预测系统
 
 使用技术：
   Python、Django、pandas、numpy、LSTM
